@@ -1,0 +1,575 @@
+---
+fall:
+- number: 1
+  slug: 01-welcome-harbor
+  date: '2026-09-23'
+  date_label: Wed 23 Sept 2026
+  saturday: false
+  title: Welcome, intro & harbor tour
+  kind: mixed
+  kind_label: Intro + demo
+  when: 16.30–20.00
+  where: Gelinde
+  teachers: Charlotte Emmery, Line Hundebøll etc.
+  topics:
+  - Welcome and intro to program and NGA — practical information
+  - Presentations
+  - Guided intro harbor tour
+  places:
+  - dokk1
+- number: 2
+  slug: 02-cathedral-latin-quarter
+  date: '2026-09-26'
+  date_label: Sat 26 Sept 2026
+  saturday: true
+  title: Cathedral & Latin Quarter demonstration
+  kind: demo
+  kind_label: Demonstration tour
+  when: 8.55 meet at the Cathedral tower · 10.30–13.00 Viking-theme walking tour
+  where: Cathedral / Latin Quarter
+  teachers: Line / Church guide, Louise Buttenchøn
+  topics:
+  - Guided demonstration tour inside the Cathedral
+  - Walking tour in the Latin Quarter (viking theme)
+  places:
+  - latin-quarter
+  - vor-frue-kirke
+  - cathedral-school
+  - viking-museum
+- number: 3
+  slug: 03-history-1
+  date: '2026-09-30'
+  date_label: Wed 30 Sept 2026
+  saturday: false
+  title: History 1 — Aarhus from year 800
+  kind: lecture
+  kind_label: Lecture
+  when: 16.30–20.00
+  where: Gelinde
+  teachers: Line / Søren Hein
+  topics:
+  - The history of Aarhus from year 800 untill present time with focus on older days
+  places:
+  - history-aarhus-denmark
+- number: 4
+  slug: 04-visitaarhus-rhetoric
+  date: '2026-10-07'
+  date_label: Wed 7 Oct 2026
+  saturday: false
+  title: VisitAarhus, rhetoric & scripting
+  kind: mixed
+  kind_label: Lecture + exercises
+  when: 16.30–20.30
+  where: Gelinde
+  teachers: Bente Mondrup, Charlotte, Line
+  topics:
+  - Introduction to VisitAarhus
+  - Rhetoric and powerful communication
+  - Making a script
+  - Exercises (present your item)
+  - Getting the task for next time
+  places: []
+- number: 5
+  slug: 05-guideskills
+  date: '2026-10-21'
+  date_label: Wed 21 Oct 2026
+  saturday: false
+  title: Guideskills and practice in class
+  kind: training
+  kind_label: Training
+  when: 16.30–20.00
+  where: Gelinde
+  teachers: Charlotte, Line
+  topics:
+  - Guideskills and practice in class
+  places: []
+- number: 6
+  slug: 06-old-town-tour
+  date: '2026-10-24'
+  date_label: Sat 24 Oct 2026
+  saturday: true
+  title: Citywalk & The Old Town
+  kind: demo
+  kind_label: Demonstration tour
+  when: 10.00–14.00
+  where: Dokk1 (escalators)
+  teachers: Line
+  topics:
+  - Citywalk + guided tour The Old Town
+  places:
+  - dokk1
+  - the-old-town
+- number: 7
+  slug: 07-old-town-class
+  date: '2026-10-28'
+  date_label: Wed 28 Oct 2026
+  saturday: false
+  title: The Old Town in class
+  kind: training
+  kind_label: Training
+  when: 16.30–20.00
+  where: Gelinde
+  teachers: Line
+  topics:
+  - The Old Town in class with exercises
+  places:
+  - the-old-town
+- number: 8
+  slug: '08-history-2'
+  date: '2026-11-04'
+  date_label: Wed 4 Nov 2026
+  saturday: false
+  title: History 2 — Aarhus from 1850
+  kind: lecture
+  kind_label: Lecture
+  when: 16.30–20.00
+  where: Gelinde
+  teachers: Søren Hein, Line
+  topics:
+  - The history of Aarhus from 1850 until today with focus on development of the city
+  places:
+  - history-aarhus-denmark
+- number: 9
+  slug: '09-storytelling'
+  date: '2026-11-11'
+  date_label: Wed 11 Nov 2026
+  saturday: false
+  title: Storytelling
+  kind: mixed
+  kind_label: Lecture + exercises
+  when: 16.30–20.00
+  where: TBA
+  teachers: Mette Thornval, Line
+  topics:
+  - Storytelling with exercises
+  places: []
+- number: 10
+  slug: 10-history-3
+  date: '2026-11-18'
+  date_label: Wed 18 Nov 2026
+  saturday: false
+  title: History 3 — Places for guides and guests
+  kind: lecture
+  kind_label: Lecture
+  when: 16.30–20.00
+  where: TBA
+  teachers: Søren Hein, Line
+  topics:
+  - Different interesting places in Aarhus with relevance for guides and guests
+  places:
+  - latin-quarter
+  - vor-frue-kirke
+  - cathedral-school
+  - viking-museum
+  - gender-museum
+  - resistance-museum
+  - monastery
+  - salling
+  - salling-rooftop
+  - city-hall
+  - mollestien
+  - molleparken
+  - aaen
+  - bernhard-jensen-sculpture
+  - immervad
+  - christian-x
+  - botanical-garden
+  - pustervig
+  - mindet
+  - dokk1
+  - magic-mushroom
+- number: 11
+  slug: 11-walking-exercises
+  date: '2026-11-21'
+  date_label: Sat 21 Nov 2026
+  saturday: true
+  title: Guide exercises walking tour
+  kind: training
+  kind_label: Training
+  when: 10.00–14.00
+  where: TBA
+  teachers: Line
+  topics:
+  - Guide exercises walking tour
+  places:
+  - latin-quarter
+  - vor-frue-kirke
+  - cathedral-school
+  - viking-museum
+  - mollestien
+  - immervad
+- number: 12
+  slug: 12-moesgaard
+  date: '2026-11-25'
+  date_label: Wed 25 Nov 2026
+  saturday: false
+  title: Visit Moesgaard
+  kind: demo
+  kind_label: Demonstration tour
+  when: TBA
+  where: Moesgaard
+  teachers: Line
+  topics:
+  - Visit Moesgaard
+  places:
+  - moesgaard
+- number: 13
+  slug: 13-old-town-exam
+  date: '2026-12-02'
+  date_label: Wed 2 Dec 2026
+  saturday: false
+  title: The Old Town exam & julehygge
+  kind: exam
+  kind_label: Exam
+  when: 15.00–18.00
+  where: Meet at the entrance
+  teachers: Charlotte, Line, evaluators
+  topics:
+  - The Old Town (exam) and julehygge
+  places:
+  - the-old-town
+spring:
+- number: 14
+  slug: 14-bodylanguage
+  date: '2027-01-13'
+  date_label: Wed 13 Jan 2027
+  saturday: false
+  title: Body language, improv & presentation
+  kind: training
+  kind_label: Training
+  when: TBA
+  where: Gelinde
+  teachers: Charlotte
+  topics:
+  - Bodylanguage / impro / presentation
+  - Pensum stops
+  sneak_peak: true
+  places: []
+- number: 15
+  slug: 15-art-history
+  date: '2027-01-20'
+  date_label: Wed 20 Jan 2027
+  saturday: false
+  title: Art history
+  kind: lecture
+  kind_label: Lecture
+  when: TBA
+  where: Gelinde
+  teachers: Anne-Marie Hermann Stück
+  topics:
+  - Art history
+  sneak_peak: true
+  places: []
+- number: 16
+  slug: 16-aros
+  date: '2027-01-23'
+  date_label: Sat 23 Jan 2027
+  saturday: true
+  title: Visit ARoS
+  kind: demo
+  kind_label: Visit
+  when: TBA
+  where: ARoS
+  teachers: TBA
+  topics:
+  - Visit ARoS
+  sneak_peak: true
+  places:
+  - aros
+- number: 17
+  slug: 17-presenting-stops
+  date: '2027-02-03'
+  date_label: Wed 3 Feb 2027
+  saturday: false
+  title: Presenting your stops in class
+  kind: training
+  kind_label: Training
+  when: TBA
+  where: TBA
+  teachers: TBA
+  topics:
+  - Guide exercises — presenting your stops in class
+  sneak_peak: true
+  places: []
+- number: 18
+  slug: 18-intercultural
+  date: '2027-02-10'
+  date_label: Wed 10 Feb 2027
+  saturday: false
+  title: Intercultural communication & hospitality
+  kind: lecture
+  kind_label: Lecture
+  when: TBA
+  where: TBA
+  teachers: Charlotte
+  topics:
+  - Intercultural comm. / hospitality
+  sneak_peak: true
+  places: []
+- number: 19
+  slug: 19-feb-24
+  date: '2027-02-24'
+  date_label: Wed 24 Feb 2027
+  saturday: false
+  title: Session TBA
+  kind: mixed
+  kind_label: TBA
+  when: TBA
+  where: TBA
+  teachers: TBA
+  topics: []
+  sneak_peak: true
+  places: []
+- number: 20
+  slug: 20-feb-27
+  date: '2027-02-27'
+  date_label: Sat 27 Feb 2027
+  saturday: true
+  title: Session TBA
+  kind: mixed
+  kind_label: TBA
+  when: TBA
+  where: TBA
+  teachers: TBA
+  topics: []
+  sneak_peak: true
+  places: []
+- number: 21
+  slug: 21-denmark-nutshell
+  date: '2027-03-03'
+  date_label: Wed 3 Mar 2027
+  saturday: false
+  title: Denmark in a nutshell
+  kind: lecture
+  kind_label: Lecture
+  when: TBA
+  where: TBA
+  teachers: Henriette
+  topics:
+  - Dk in a nutshell
+  sneak_peak: true
+  places:
+  - history-aarhus-denmark
+- number: 22
+  slug: 22-practise-walking
+  date: '2027-03-10'
+  date_label: Wed 10 Mar 2027
+  saturday: false
+  title: Practise walking tour (outdoors)
+  kind: training
+  kind_label: Training
+  when: TBA
+  where: Outdoors
+  teachers: TBA
+  topics:
+  - Practise walking tour (out)
+  sneak_peak: true
+  places:
+  - latin-quarter
+  - vor-frue-kirke
+  - cathedral-school
+  - viking-museum
+  - mollestien
+  - immervad
+  - dokk1
+- number: 23
+  slug: 23-bus-tour
+  date: '2027-03-13'
+  date_label: Sat 13 Mar 2027
+  saturday: true
+  title: Bus tour — Fyrkat, Ebeltoft, Rosenholm, Gl. Estrup
+  kind: demo
+  kind_label: Bus tour
+  when: TBA
+  where: Fyrkat / Ebeltoft / Rosenholm / Gl. Estrup
+  teachers: TBA
+  topics:
+  - BUS tour Fyrkat / Ebeltoft / Rosenholm / Gl. Estrup
+  sneak_peak: true
+  places: []
+- number: 24
+  slug: 24-practise-17-mar
+  date: '2027-03-17'
+  date_label: Wed 17 Mar 2027
+  saturday: false
+  title: Practise
+  kind: training
+  kind_label: Training
+  when: TBA
+  where: TBA
+  teachers: TBA
+  topics:
+  - Practise
+  sneak_peak: true
+  places: []
+- number: 25
+  slug: 25-practise-31-mar
+  date: '2027-03-31'
+  date_label: Wed 31 Mar 2027
+  saturday: false
+  title: Practise
+  kind: training
+  kind_label: Training
+  when: TBA
+  where: TBA
+  teachers: TBA
+  topics:
+  - Practise
+  sneak_peak: true
+  places: []
+- number: 26
+  slug: 26-exam-walking
+  date: '2027-04-07'
+  date_label: Wed 7 Apr 2027
+  saturday: false
+  title: Exam walking tour
+  kind: exam
+  kind_label: Exam
+  when: TBA
+  where: TBA
+  teachers: TBA
+  topics:
+  - Exam walking tour
+  sneak_peak: true
+  places:
+  - latin-quarter
+  - vor-frue-kirke
+  - cathedral-school
+  - viking-museum
+  - mollestien
+  - immervad
+  - the-old-town
+- number: 27
+  slug: 27-exam-bus
+  date: '2027-04-14'
+  date_label: Wed 14 Apr 2027
+  saturday: false
+  title: Exam bus tour
+  kind: exam
+  kind_label: Exam
+  when: TBA
+  where: TBA
+  teachers: TBA
+  topics:
+  - Exam bus tour
+  sneak_peak: true
+  places: []
+- number: 28
+  slug: 28-celebration
+  date: '2027-04-14'
+  date_label: 2027 · TBA
+  saturday: false
+  title: Celebration and diplomas
+  kind: exam
+  kind_label: Celebration
+  when: TBA
+  where: TBA
+  teachers: TBA
+  topics:
+  - Celebration and diplomas
+  sneak_peak: true
+  places: []
+places:
+- slug: history-aarhus-denmark
+  title: Basic history of Aarhus / Denmark
+  scope: foundation
+  scope_label: Foundation
+- slug: latin-quarter
+  title: The Latin Quarter
+  scope: guide
+  scope_label: Guide stop
+- slug: vor-frue-kirke
+  title: Vor Frue Kirke
+  scope: guide
+  scope_label: Guide stop
+- slug: cathedral-school
+  title: The cathedral school
+  scope: guide
+  scope_label: Guide stop
+- slug: viking-museum
+  title: The Viking Museum
+  scope: guide
+  scope_label: Guide stop
+- slug: gender-museum
+  title: The Gender Museum
+  scope: guide
+  scope_label: Guide stop
+- slug: resistance-museum
+  title: The Resistance Museum
+  scope: guide
+  scope_label: Guide stop
+- slug: monastery
+  title: The monastery
+  scope: guide
+  scope_label: Guide stop
+- slug: salling
+  title: Salling
+  scope: guide
+  scope_label: Guide stop
+- slug: salling-rooftop
+  title: Salling Rooftop
+  scope: guide
+  scope_label: Guide stop
+- slug: city-hall
+  title: The city hall
+  scope: guide
+  scope_label: Guide stop
+- slug: mollestien
+  title: Møllestien
+  scope: guide
+  scope_label: Guide stop
+- slug: molleparken
+  title: Mølleparken
+  scope: guide
+  scope_label: Guide stop
+- slug: aaen
+  title: "“Aaen”"
+  scope: guide
+  scope_label: Guide stop
+- slug: bernhard-jensen-sculpture
+  title: Bernhard Jensen’s sculpture
+  scope: guide
+  scope_label: Guide stop
+- slug: immervad
+  title: Immervad
+  scope: guide
+  scope_label: Guide stop
+- slug: christian-x
+  title: Chr. 10
+  scope: guide
+  scope_label: Guide stop
+- slug: botanical-garden
+  title: The botanical garden
+  scope: guide
+  scope_label: Guide stop
+- slug: pustervig
+  title: Pustervig (sculpture)
+  scope: guide
+  scope_label: Guide stop
+- slug: mindet
+  title: Mindet
+  scope: guide
+  scope_label: Guide stop
+- slug: dokk1
+  title: Dokk1
+  scope: guide
+  scope_label: Guide stop
+- slug: magic-mushroom
+  title: Magic mushroom
+  scope: guide
+  scope_label: Guide stop
+- slug: aros
+  title: ARoS
+  scope: introduce
+  scope_label: Introduce only
+  subtitle: Introduce — not guide
+- slug: moesgaard
+  title: Moesgaard
+  scope: introduce
+  scope_label: Introduce only
+  subtitle: Introduce — not guide
+- slug: the-old-town
+  title: The Old Town
+  scope: exam
+  scope_label: Exam
+  subtitle: Exam location

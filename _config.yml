@@ -1,0 +1,50 @@
+title: NGA Aarhus 2026 Notes
+description: Compiled class notes for Nordic Guide Academy Aarhus 2026
+url: ""
+baseurl: ""
+
+# Set baseurl to "/repo-name" when publishing as a project site on GitHub Pages.
+# Example: baseurl: "/nga-2026-notes"
+
+markdown: kramdown
+permalink: pretty
+
+plugins:
+  - jekyll-redirect-from
+
+collections:
+  sessions:
+    output: true
+    permalink: /sessions/:path/
+  places:
+    output: true
+    permalink: /places/:slug/
+  sources:
+    output: true
+    permalink: /sources/:path/
+
+defaults:
+  - scope:
+      path: ""
+      type: sessions
+    values:
+      layout: session
+  - scope:
+      path: ""
+      type: places
+    values:
+      layout: place
+  - scope:
+      path: ""
+      type: sources
+    values:
+      layout: source
+
+exclude:
+  - images
+  - _ocr
+  - _templates
+  - README.md
+  - Gemfile
+  - Gemfile.lock
+  - vendor

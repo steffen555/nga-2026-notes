@@ -1,0 +1,60 @@
+---
+layout: default
+---
+<article class="page source">
+  <header class="page-header">
+    <p class="eyebrow">
+      <a href="{{ '/sources/' | relative_url }}">Sources</a>
+      <span class="tag tag-{{ page.format | default: 'text' }}">{{ page.format_label | default: page.format }}</span>
+    </p>
+    <h1>{{ page.title }}</h1>
+    {% if page.summary %}<p class="lede">{{ page.summary }}</p>{% endif %}
+    <dl class="meta">
+      <div><dt>Author</dt><dd>{{ page.author }}{% if page.author_role %} <span class="muted">({{ page.author_role }})</span>{% endif %}</dd></div>
+      {% if page.received %}<div><dt>Received</dt><dd>{{ page.received }}</dd></div>{% endif %}
+    </dl>
+  </header>
+
+  {% if page.sessions or page.places %}
+  <section class="panel">
+    <h2>Related to</h2>
+    <ul class="related-chips">
+      {% for sid in page.sessions %}
+      <li><a href="{{ '/sessions/' | append: sid | append: '/' | relative_url }}">Session: {{ sid }}</a></li>
+      {% endfor %}
+      {% for pid in page.places %}
+      <li><a href="{{ '/places/' | append: pid | append: '/' | relative_url }}">Place: {{ pid }}</a></li>
+      {% endfor %}
+    </ul>
+  </section>
+  {% endif %}
+
+  {% if page.media and page.media.size > 0 %}
+  <section class="source-media">
+    <h2>As received</h2>
+    <div class="media-grid">
+      {% for item in page.media %}
+      <figure>
+        {% assign ext = item.path | split: '.' | last | downcase %}
+        {% if ext == 'jpg' or ext == 'jpeg' or ext == 'png' or ext == 'webp' or ext == 'gif' or ext == 'heic' %}
+        <a href="{{ item.path | relative_url }}">
+          <img src="{{ item.path | relative_url }}" alt="{{ item.caption | default: page.title }}">
+        </a>
+        {% else %}
+        <a class="file-link" href="{{ item.path | relative_url }}">{{ item.caption | default: item.path }}</a>
+        {% endif %}
+        {% if item.caption %}<figcaption>{{ item.caption }}</figcaption>{% endif %}
+      </figure>
+      {% endfor %}
+    </div>
+  </section>
+  {% endif %}
+
+  {% assign body = content | strip %}
+  {% if body != "" %}
+  <section class="notes-body source-body">
+    <h2>Content</h2>
+    {{ content }}
+  </section>
+  {% endif %}
+</article>

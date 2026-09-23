@@ -1,0 +1,38 @@
+{% comment %}
+  Session chips for a curriculum place page.
+  include.place_id = place slug, e.g. latin-quarter
+{% endcomment %}
+{% assign pid = include.place_id %}
+{% assign match_count = 0 %}
+{% for s in site.data.program.fall %}
+  {% if s.places contains pid %}{% assign match_count = match_count | plus: 1 %}{% endif %}
+{% endfor %}
+{% for s in site.data.program.spring %}
+  {% if s.places contains pid %}{% assign match_count = match_count | plus: 1 %}{% endif %}
+{% endfor %}
+
+{% if match_count > 0 %}
+<section class="panel cross-links">
+  <h2>Program</h2>
+  <ul class="related-chips">
+    {% for s in site.data.program.fall %}
+      {% if s.places contains pid %}
+      <li>
+        <a href="{{ '/sessions/' | append: s.slug | append: '/' | relative_url }}">
+          {{ s.date_label }} · {{ s.title }}
+        </a>
+      </li>
+      {% endif %}
+    {% endfor %}
+    {% for s in site.data.program.spring %}
+      {% if s.places contains pid %}
+      <li>
+        <a href="{{ '/sessions/' | append: s.slug | append: '/' | relative_url }}">
+          {{ s.date_label }} · {{ s.title }}
+        </a>
+      </li>
+      {% endif %}
+    {% endfor %}
+  </ul>
+</section>
+{% endif %}

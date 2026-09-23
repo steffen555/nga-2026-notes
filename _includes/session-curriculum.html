@@ -1,0 +1,31 @@
+{% comment %}
+  Curriculum place chips for a session page.
+  include.session_id = file stem, e.g. 02-cathedral-latin-quarter
+{% endcomment %}
+{% assign sid = include.session_id %}
+{% assign entry = nil %}
+{% for s in site.data.program.fall %}
+  {% if s.slug == sid %}{% assign entry = s %}{% endif %}
+{% endfor %}
+{% unless entry %}
+  {% for s in site.data.program.spring %}
+    {% if s.slug == sid %}{% assign entry = s %}{% endif %}
+  {% endfor %}
+{% endunless %}
+
+{% if entry and entry.places and entry.places.size > 0 %}
+<section class="panel cross-links">
+  <h2>Curriculum</h2>
+  <ul class="related-chips">
+    {% for place_slug in entry.places %}
+      {% assign place = nil %}
+      {% for p in site.data.program.places %}
+        {% if p.slug == place_slug %}{% assign place = p %}{% endif %}
+      {% endfor %}
+      {% if place %}
+      <li><a href="{{ '/places/' | append: place.slug | append: '/' | relative_url }}">{{ place.title }}</a></li>
+      {% endif %}
+    {% endfor %}
+  </ul>
+</section>
+{% endif %}

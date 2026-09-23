@@ -1,0 +1,31 @@
+---
+layout: default
+---
+{% assign pid = page.slug %}
+{% if pid == nil or pid == "" %}
+  {% assign pid = page.path | split: "/" | last | remove: ".md" %}
+{% endif %}
+<article class="page place">
+  <header class="page-header">
+    <p class="eyebrow">
+      <a href="{{ '/curriculum/' | relative_url }}">Curriculum</a>
+      {% if page.scope %}<span class="tag tag-{{ page.scope }}">{{ page.scope_label | default: page.scope }}</span>{% endif %}
+    </p>
+    <h1>{{ page.title }}</h1>
+    {% if page.subtitle %}<p class="lede">{{ page.subtitle }}</p>{% endif %}
+  </header>
+
+  {% include place-sessions.html place_id=pid %}
+
+  <section class="notes-body">
+    <h2>Notes</h2>
+    {% assign body = content | strip %}
+    {% if body == "" %}
+    <p class="empty">Notes for this place will appear here.</p>
+    {% else %}
+    {{ content }}
+    {% endif %}
+  </section>
+
+  {% include sources-related.html related_id=pid related_kind="place" %}
+</article>

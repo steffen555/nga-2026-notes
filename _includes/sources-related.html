@@ -1,0 +1,42 @@
+{% comment %}
+  Lists source-material entries linked to this session or place.
+  Pass related_id as the session/place file stem, e.g. 01-welcome-harbor or latin-quarter.
+  Pass related_kind as "session" or "place".
+{% endcomment %}
+{% assign related_id = include.related_id %}
+{% assign related_kind = include.related_kind | default: "session" %}
+{% assign match_count = 0 %}
+{% for src in site.sources %}
+  {% assign is_match = false %}
+  {% if related_kind == "session" and src.sessions %}
+    {% if src.sessions contains related_id %}{% assign is_match = true %}{% endif %}
+  {% elsif related_kind == "place" and src.places %}
+    {% if src.places contains related_id %}{% assign is_match = true %}{% endif %}
+  {% endif %}
+  {% if is_match %}{% assign match_count = match_count | plus: 1 %}{% endif %}
+{% endfor %}
+
+{% if match_count > 0 %}
+<section class="sources-used">
+  <h2>Sources</h2>
+  <p class="muted">Original notes and handouts linked to this page.</p>
+  <ul class="source-list">
+    {% for src in site.sources %}
+      {% assign is_match = false %}
+      {% if related_kind == "session" and src.sessions %}
+        {% if src.sessions contains related_id %}{% assign is_match = true %}{% endif %}
+      {% elsif related_kind == "place" and src.places %}
+        {% if src.places contains related_id %}{% assign is_match = true %}{% endif %}
+      {% endif %}
+      {% if is_match %}
+    <li>
+      <a href="{{ src.url | relative_url }}">
+        <strong>{{ src.title }}</strong>
+        <span class="sub">{{ src.author }} · {{ src.format_label | default: src.format }} · received {{ src.received }}</span>
+      </a>
+    </li>
+      {% endif %}
+    {% endfor %}
+  </ul>
+</section>
+{% endif %}

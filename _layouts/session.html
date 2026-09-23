@@ -1,0 +1,45 @@
+---
+layout: default
+---
+{% assign sid = page.path | split: "/" | last | remove: ".md" %}
+<article class="page session">
+  <header class="page-header">
+    <p class="eyebrow">
+      <a href="{{ '/program/' | relative_url }}">Program</a>
+      · {{ page.term | capitalize }}
+      {% if page.kind %}<span class="tag tag-{{ page.kind }}">{{ page.kind_label | default: page.kind }}</span>{% endif %}
+    </p>
+    <h1>{{ page.title }}</h1>
+    <dl class="meta">
+      {% if page.date_label %}<div><dt>Date</dt><dd>{{ page.date_label }}</dd></div>{% endif %}
+      {% if page.when %}<div><dt>Time</dt><dd>{{ page.when }}</dd></div>{% endif %}
+      {% if page.where %}<div><dt>Place</dt><dd>{{ page.where }}</dd></div>{% endif %}
+      {% if page.teachers %}<div><dt>With</dt><dd>{{ page.teachers }}</dd></div>{% endif %}
+    </dl>
+  </header>
+
+  {% if page.topics and page.topics.size > 0 %}
+  <section class="panel">
+    <h2>On the program</h2>
+    <ul>
+      {% for topic in page.topics %}
+      <li>{{ topic }}</li>
+      {% endfor %}
+    </ul>
+  </section>
+  {% endif %}
+
+  {% include session-curriculum.html session_id=sid %}
+
+  <section class="notes-body">
+    <h2>Notes</h2>
+    {% assign body = content | strip %}
+    {% if body == "" %}
+    <p class="empty">Notes for this session will appear here.</p>
+    {% else %}
+    {{ content }}
+    {% endif %}
+  </section>
+
+  {% include sources-related.html related_id=sid related_kind="session" %}
+</article>

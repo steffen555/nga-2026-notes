@@ -1,0 +1,50 @@
+{% assign sessions = site.data.program.fall %}
+{% if include.term == "spring" %}
+  {% assign sessions = site.data.program.spring %}
+{% endif %}
+
+<div class="legend">
+  <span><span class="tag tag-lecture">Lecture</span> red on handout</span>
+  <span><span class="tag tag-demo">Demo / tour</span> blue on handout</span>
+  <span><span class="tag tag-training">Training</span> green on handout</span>
+  <span>Saturdays highlighted</span>
+</div>
+
+<div class="table-wrap">
+<table class="schedule">
+  <thead>
+    <tr>
+      <th>#</th>
+      <th>Date</th>
+      <th>Subject</th>
+      <th>Place &amp; time</th>
+      <th>With</th>
+    </tr>
+  </thead>
+  <tbody>
+    {% for s in sessions %}
+    <tr class="kind-{{ s.kind }}{% if s.saturday %} saturday{% endif %}">
+      <td>{{ s.number }}</td>
+      <td>{% if s.saturday %}<strong>{{ s.date_label }}</strong>{% else %}{{ s.date_label }}{% endif %}</td>
+      <td>
+        <a class="subject-title" href="{{ '/sessions/' | append: s.slug | append: '/' | relative_url }}">{{ s.title }}</a>
+        {% if s.topics and s.topics.size > 0 %}
+        <ul class="subject-list">
+          {% for t in s.topics %}
+          <li>{{ t }}</li>
+          {% endfor %}
+        </ul>
+        {% elsif s.topics == nil or s.topics.size == 0 %}
+        <p class="subject-list muted" style="margin:0.35rem 0 0;padding:0">Subject TBA on handout</p>
+        {% endif %}
+        <span class="tag tag-{{ s.kind }}">{{ s.kind_label }}</span>
+      </td>
+      <td>
+        {{ s.when }}{% if s.where %}<br>{{ s.where }}{% endif %}
+      </td>
+      <td>{{ s.teachers }}</td>
+    </tr>
+    {% endfor %}
+  </tbody>
+</table>
+</div>
