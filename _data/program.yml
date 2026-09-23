@@ -17,6 +17,8 @@ fall:
   - Guided intro harbor tour
   places:
   - dokk1
+  starts: '16:30'
+  ends: '20:00'
 - number: 2
   slug: 02-cathedral-latin-quarter
   date: '2026-09-26'
@@ -36,6 +38,8 @@ fall:
   - vor-frue-kirke
   - cathedral-school
   - viking-museum
+  starts: '08:55'
+  ends: '13:00'
 - number: 3
   slug: 03-history-1
   date: '2026-09-30'
@@ -51,6 +55,8 @@ fall:
   - The history of Aarhus from year 800 untill present time with focus on older days
   places:
   - history-aarhus-denmark
+  starts: '16:30'
+  ends: '20:00'
 - number: 4
   slug: 04-visitaarhus-rhetoric
   date: '2026-10-07'
@@ -69,6 +75,8 @@ fall:
   - Exercises (present your item)
   - Getting the task for next time
   places: []
+  starts: '16:30'
+  ends: '20:30'
 - number: 5
   slug: 05-guideskills
   date: '2026-10-21'
@@ -83,6 +91,8 @@ fall:
   topics:
   - Guideskills and practice in class
   places: []
+  starts: '16:30'
+  ends: '20:00'
 - number: 6
   slug: 06-old-town-tour
   date: '2026-10-24'
@@ -99,6 +109,8 @@ fall:
   places:
   - dokk1
   - the-old-town
+  starts: '10:00'
+  ends: '14:00'
 - number: 7
   slug: 07-old-town-class
   date: '2026-10-28'
@@ -114,6 +126,8 @@ fall:
   - The Old Town in class with exercises
   places:
   - the-old-town
+  starts: '16:30'
+  ends: '20:00'
 - number: 8
   slug: '08-history-2'
   date: '2026-11-04'
@@ -129,6 +143,8 @@ fall:
   - The history of Aarhus from 1850 until today with focus on development of the city
   places:
   - history-aarhus-denmark
+  starts: '16:30'
+  ends: '20:00'
 - number: 9
   slug: '09-storytelling'
   date: '2026-11-11'
@@ -143,6 +159,8 @@ fall:
   topics:
   - Storytelling with exercises
   places: []
+  starts: '16:30'
+  ends: '20:00'
 - number: 10
   slug: 10-history-3
   date: '2026-11-18'
@@ -178,6 +196,8 @@ fall:
   - mindet
   - dokk1
   - magic-mushroom
+  starts: '16:30'
+  ends: '20:00'
 - number: 11
   slug: 11-walking-exercises
   date: '2026-11-21'
@@ -198,6 +218,8 @@ fall:
   - viking-museum
   - mollestien
   - immervad
+  starts: '10:00'
+  ends: '14:00'
 - number: 12
   slug: 12-moesgaard
   date: '2026-11-25'
@@ -213,6 +235,8 @@ fall:
   - Visit Moesgaard
   places:
   - moesgaard
+  starts: '00:00'
+  ends: '23:59'
 - number: 13
   slug: 13-old-town-exam
   date: '2026-12-02'
@@ -228,6 +252,8 @@ fall:
   - The Old Town (exam) and julehygge
   places:
   - the-old-town
+  starts: '15:00'
+  ends: '18:00'
 spring:
 - number: 14
   slug: 14-bodylanguage
@@ -245,6 +271,8 @@ spring:
   - Pensum stops
   sneak_peak: true
   places: []
+  starts: '00:00'
+  ends: '23:59'
 - number: 15
   slug: 15-art-history
   date: '2027-01-20'
@@ -260,6 +288,8 @@ spring:
   - Art history
   sneak_peak: true
   places: []
+  starts: '00:00'
+  ends: '23:59'
 - number: 16
   slug: 16-aros
   date: '2027-01-23'
@@ -276,6 +306,8 @@ spring:
   sneak_peak: true
   places:
   - aros
+  starts: '00:00'
+  ends: '23:59'
 - number: 17
   slug: 17-presenting-stops
   date: '2027-02-03'
@@ -291,6 +323,8 @@ spring:
   - Guide exercises — presenting your stops in class
   sneak_peak: true
   places: []
+  starts: '00:00'
+  ends: '23:59'
 - number: 18
   slug: 18-intercultural
   date: '2027-02-10'
@@ -306,6 +340,8 @@ spring:
   - Intercultural comm. / hospitality
   sneak_peak: true
   places: []
+  starts: '00:00'
+  ends: '23:59'
 - number: 19
   slug: 19-feb-24
   date: '2027-02-24'
@@ -320,6 +356,8 @@ spring:
   topics: []
   sneak_peak: true
   places: []
+  starts: '00:00'
+  ends: '23:59'
 - number: 20
   slug: 20-feb-27
   date: '2027-02-27'
@@ -334,6 +372,8 @@ spring:
   topics: []
   sneak_peak: true
   places: []
+  starts: '00:00'
+  ends: '23:59'
 - number: 21
   slug: 21-denmark-nutshell
   date: '2027-03-03'
@@ -350,6 +390,8 @@ spring:
   sneak_peak: true
   places:
   - history-aarhus-denmark
+  starts: '00:00'
+  ends: '23:59'
 - number: 22
   slug: 22-practise-walking
   date: '2027-03-10'
@@ -372,6 +414,8 @@ spring:
   - mollestien
   - immervad
   - dokk1
+  starts: '00:00'
+  ends: '23:59'
 - number: 23
   slug: 23-bus-tour
   date: '2027-03-13'
@@ -387,6 +431,8 @@ spring:
   - BUS tour Fyrkat / Ebeltoft / Rosenholm / Gl. Estrup
   sneak_peak: true
   places: []
+  starts: '00:00'
+  ends: '23:59'
 - number: 24
   slug: 24-practise-17-mar
   date: '2027-03-17'
@@ -402,6 +448,8 @@ spring:
   - Practise
   sneak_peak: true
   places: []
+  starts: '00:00'
+  ends: '23:59'
 - number: 25
   slug: 25-practise-31-mar
   date: '2027-03-31'
@@ -417,6 +465,8 @@ spring:
   - Practise
   sneak_peak: true
   places: []
+  starts: '00:00'
+  ends: '23:59'
 - number: 26
   slug: 26-exam-walking
   date: '2027-04-07'
@@ -439,6 +489,8 @@ spring:
   - mollestien
   - immervad
   - the-old-town
+  starts: '00:00'
+  ends: '23:59'
 - number: 27
   slug: 27-exam-bus
   date: '2027-04-14'
@@ -454,6 +506,8 @@ spring:
   - Exam bus tour
   sneak_peak: true
   places: []
+  starts: '00:00'
+  ends: '23:59'
 - number: 28
   slug: 28-celebration
   date: '2027-04-14'
@@ -469,6 +523,8 @@ spring:
   - Celebration and diplomas
   sneak_peak: true
   places: []
+  starts: '00:00'
+  ends: '23:59'
 places:
 - slug: history-aarhus-denmark
   title: Basic history of Aarhus / Denmark
