@@ -23,10 +23,10 @@ permalink: /practical/
   <h2>Facebook groups</h2>
   <p>You will be part of a network of guides and guide students. Relevant groups:</p>
   <ul>
-    <li><strong>Facebook: Nordic Guide Academy</strong> — main site for stories and photos with the world</li>
-    <li><strong>Aarhus NGA 2026</strong> — class group for internal messages, last-minute notes, inspiration and photos</li>
+    <li><strong><a href="https://www.facebook.com/profile.php?id=61563595391370">Facebook: Nordic Guide Academy</a></strong> — main site for stories and photos with the world</li>
+    <li><strong><a href="https://www.facebook.com/groups/2152410785626185">NGA Aarhus 2026</a></strong> — class group for internal messages, last-minute notes, inspiration and photos</li>
     <li><strong>All NGA Alumni</strong> — all NGA classes; invitations to events and arrangements</li>
-    <li><strong>GND – Guide Network Denmark</strong> — active guides in Denmark</li>
+    <li><strong><a href="https://www.facebook.com/groups/2080494859153889/">GND – Guide Network Denmark</a></strong> — active guides in Denmark</li>
   </ul>
 </section>
 
