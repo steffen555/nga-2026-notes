@@ -27,10 +27,12 @@ docker run --rm \
   -v "$PWD:/srv/jekyll" \
   -p 4000:4000 -p 35729:35729 \
   jekyll/jekyll:4 \
-  bash -lc 'bundle install && bundle exec jekyll serve --host 0.0.0.0 --livereload --force_polling'
+  bash -lc 'bundle install && bundle exec jekyll serve --host 0.0.0.0 --baseurl "" --livereload --force_polling'
 ```
 
 Open http://127.0.0.1:4000
+
+(Production uses `baseurl: "/nga-2026-notes"` for GitHub Pages; local serve overrides it to empty.)
 
 ## Where things live
 
