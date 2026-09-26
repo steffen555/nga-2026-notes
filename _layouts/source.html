@@ -12,6 +12,12 @@ layout: default
     <dl class="meta">
       <div><dt>Author</dt><dd>{{ page.author }}{% if page.author_role %} <span class="muted">({{ page.author_role }})</span>{% endif %}</dd></div>
       {% if page.received %}<div><dt>Received</dt><dd>{{ page.received }}</dd></div>{% endif %}
+      {% if page.origin_url %}
+      <div class="meta-origin">
+        <dt>Origin</dt>
+        <dd><a href="{{ page.origin_url }}" rel="noopener noreferrer">Open original</a></dd>
+      </div>
+      {% endif %}
     </dl>
   </header>
 
@@ -59,7 +65,7 @@ layout: default
   {% assign body = content | strip %}
   {% if body != "" %}
   <section class="notes-body source-body">
-    <h2>Transcription</h2>
+    <h2>{% if page.media and page.media.size > 0 %}Transcription{% else %}Source text{% endif %}</h2>
     {{ content }}
   </section>
   {% endif %}

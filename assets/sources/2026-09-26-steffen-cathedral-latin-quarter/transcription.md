@@ -69,10 +69,11 @@ Første kirke i Aarhus, som stadig er her. Første kirke blev brændt. Kristendo
 Krypten blev brugt som lager, så lukket til, og genfundet i 1956/57.
 
 Ikke den oprindelige Jesus. Stærk Jesus med vikingemode. Kong Knud.
+[clarified later: looking up, braided hair, muscular arms and big hands — viking-hero depiction; connection to Kong Knud not remembered]
 
 ## IMG_9310.JPG
 
-"Travestine"
+"Travertine" [earlier misread as Travestine]
 
 De havde stavkirker.
 

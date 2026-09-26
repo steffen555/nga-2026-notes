@@ -17,38 +17,30 @@ topics:
 
 ## Aarhus Cathedral (Skt. Clemens Kirke)
 
-Longest church in Denmark; about 825 years of history — often dated to 1201, but a bit older (known via the cathedral school). Roughly a century to build, though that is not certain.{% include cite.html id="2026-09-26-steffen-cathedral-latin-quarter" %}
+Denmark’s longest church (**93 m**), dedicated to **St Clement**. The cathedral marks about **825 years** in **2026** from a traditional **1201** start; the tour said it is older because **cathedral school** records mention the church before that date. Roughly a century to build was noted (uncertain).{% include cite.html id="2026-09-26-steffen-cathedral-latin-quarter" %} Published accounts: begun late 1100s under Bishop **Peder Vognsen**; Romanesque finish around 1300–1350; Gothic remaking c. 1449–1500.{% include cite.html id="ref-aarhus-domkirke" %}{% include cite.html id="ref-danmarkshistorien-aarhus-domkirke" %}
 
-The gate into the town once lay at Store Torv. The church can be seen from the water.{% include cite.html id="2026-09-26-steffen-cathedral-latin-quarter" %}
+The town gate once lay at Store Torv; the church can be seen from the water.{% include cite.html id="2026-09-26-steffen-cathedral-latin-quarter" %}
 
-**Jens Iversen Lange** raised the building and later bought the altarpiece. In the old days there were no chairs. At the Reformation there were some 36–40 altars, which were burned; the church moved from Catholic to Protestant. Old pictures were painted over and restored in the 1900s.{% include cite.html id="2026-09-26-steffen-cathedral-latin-quarter" %}
+Bishop **Jens Iversen Lange** raised the Gothic nave and west tower and donated the **Bernt Notke** altarpiece (Easter **1479**). In the old days there were no chairs. At the Reformation some 36–40 side altars were suppressed; frescoes were painted over and later restored.{% include cite.html id="ref-danmarkshistorien-aarhus-domkirke" %}{% include cite.html id="ref-aarhus-domkirke" %}{% include cite.html id="2026-09-26-steffen-cathedral-latin-quarter" %}
 
-Paintings show local mayors, businessmen, and nobles. The floor was covered with gravestones; on the order of **3,500** people are buried in the church — the floor is unstable, and the count is not precise because the tally was careless.{% include cite.html id="2026-09-26-steffen-cathedral-latin-quarter" %}
+Paintings show local elites. Burials under the floor were put at about **3,500** on the tour (approximate; careless tally).{% include cite.html id="2026-09-26-steffen-cathedral-latin-quarter" %}
 
-**St George and the dragon** (1497): a female dragon with young — the mother is dead, the young one lives (symbolism). The altar has many sides; there is a model. The woman in the centre of the altarpiece is not Mary but Mary’s mother **Anna**. Jens Iversen Lange bought the altarpiece.{% include cite.html id="2026-09-26-steffen-cathedral-latin-quarter" %}
+**St George and the dragon** (1497 in the notes): female dragon with young — mother dead, young one living.{% include cite.html id="2026-09-26-steffen-cathedral-latin-quarter" %} Altar centre: Mary’s mother **Anna** with Mary and the Child (Notke).{% include cite.html id="ref-aarhus-domkirke" %}
 
-It is an **active church**, not only a museum. It has the largest organ in Denmark.{% include cite.html id="2026-09-26-steffen-cathedral-latin-quarter" %}
+Active church; largest organ in Denmark on the cathedral’s own account (**89** stops).{% include cite.html id="ref-aarhus-domkirke" %}{% include cite.html id="2026-09-26-steffen-cathedral-latin-quarter" %} Parish marriage rule; free entry, paid guided tours (voucher); toilets vs Banken nearby.{% include cite.html id="2026-09-26-steffen-cathedral-latin-quarter" %}
 
-You must live in the parish to marry in the church. Visiting is free; guided tours are paid (voucher). Toilets exist in the church — check whether something is on; Banken food hall is a better option nearby.{% include cite.html id="2026-09-26-steffen-cathedral-latin-quarter" %}
-
-**Ship model:** tradition found in Denmark and also N. Germany, Norway, and Sweden (linked to Danish presence); the noted example comes from Holland, ordered by Peter the Great for St Petersburg — origin of the tradition otherwise uncertain.{% include cite.html id="2026-09-26-steffen-cathedral-latin-quarter" %}
-
-**Leper window:** the priest could pass communion to lepers who were not allowed inside.{% include cite.html id="2026-09-26-steffen-cathedral-latin-quarter" %}
-
-**Marselis chapel:** Gabriel Marselis; sons Vilhelm and Konstantin lie under the floor.{% include cite.html id="2026-09-26-steffen-cathedral-latin-quarter" %}
+**Ship *Unity*** (1720): Dutch model / Peter the Great / Skagen wreck story — also the cathedral’s published account.{% include cite.html id="ref-aarhus-domkirke" %}{% include cite.html id="2026-09-26-steffen-cathedral-latin-quarter" %} **Leprosy window** (fresco c. 1300): tour said communion to lepers; cathedral text names the window without specifying what was passed.{% include cite.html id="2026-09-26-steffen-cathedral-latin-quarter" %}{% include cite.html id="ref-aarhus-domkirke" %} **Marselis chapel** (1702): Quellinus monument for Constantin Marselis’s widow and her two husbands; day notes named Gabriel / Vilhelm / Konstantin — check before guiding.{% include cite.html id="ref-aarhus-domkirke" %}{% include cite.html id="2026-09-26-steffen-cathedral-latin-quarter" %}
 
 ## Vor Frue and the early town
 
-First church in Aarhus that is still here; an earlier church was burned when Christianity was new. The crypt was used as storage, closed off, and rediscovered in **1956/57**. The Jesus figure is not the original — a strong “viking-style” Jesus associated with King Knud.{% include cite.html id="2026-09-26-steffen-cathedral-latin-quarter" %}
+Wooden church burned **1051** (Harald Hardrada); then travertine **crypt** c. **1060** (oldest vaulted stone church in the Nordic countries); then **Skt. Nicolai** as first cathedral; **Dominicans / Blackfriars** from c. 1230–1240; renamed **Vor Frue** after the Reformation.{% include cite.html id="ref-aarhuswiki-vor-frue" %}{% include cite.html id="ref-vor-frue-kirke" %}{% include cite.html id="ref-danmarkshistorien-vor-frue" %}{% include cite.html id="2026-09-26-steffen-cathedral-latin-quarter" %}
 
-They had **stave churches**; **Blackfriars** (Dominican) connection; “Travestine” also noted (uncertain reading). Rune stones found in the church had often been taken down and reused as building stone.{% include cite.html id="2026-09-26-steffen-cathedral-latin-quarter" %}
+Crypt rediscovered **1955**, rededicated **1957** (notes said 1956/57). Crucifix is a copy of the **Åby** figure.{% include cite.html id="ref-vor-frue-kirke" %} Tour reading of the viking-style Christ: looking up, braided hair, muscular arms, big hands — how a viking hero might be shown; **Kong Knud** is in the notes but the link is not remembered.{% include cite.html id="2026-09-26-steffen-cathedral-latin-quarter" %} Four runestones reused in the monastery foundations (incl. Århussten 5).{% include cite.html id="ref-trap-aarhus-dominikanerkloster" %}{% include cite.html id="2026-09-26-steffen-cathedral-latin-quarter" %}
 
 ## Viking-theme walking tour
 
-**Volden** was the town rampart/wall — you can walk on the wall. The stream (**Åen**) gave the town its name; water gathered settlements rather than dividing them.{% include cite.html id="2026-09-26-steffen-cathedral-latin-quarter" %}
+**Volden** = rampart street; **Åen** named the town; **Graven** = moat — names still map the early defences.{% include cite.html id="ref-stadsarkiv-volden-pustervig" %}{% include cite.html id="2026-09-26-steffen-cathedral-latin-quarter" %}
 
-**Pustervig** was a trading place (worth more research). **Graven** was the moat at the outer edge of town — street names still tell that story. Aarhus was well protected.{% include cite.html id="2026-09-26-steffen-cathedral-latin-quarter" %}
+**Pustervig**: day notes said trading place (research). Local archive: modern square (1915+); name likely **smithing**; early finds include 800s pit houses.{% include cite.html id="2026-09-26-steffen-cathedral-latin-quarter" %}{% include cite.html id="ref-stadsarkiv-volden-pustervig" %}
 
-**Viking Museum;** pit houses (*grubehuse*) — small and dug into the ground.{% include cite.html id="2026-09-26-steffen-cathedral-latin-quarter" %}
-
-Vikings and law: right to own land and to be judged by an independent jury (framed in the notes as inventing aspects of the lawsuit). About **7,000** English words from Danish; *gat* = opening (cf. gap / Kattegat). England once paid a large share of its budget (notes: ~50%) to keep Vikings away (Danegeld).{% include cite.html id="2026-09-26-steffen-cathedral-latin-quarter" %}
+**Viking Museum;** pit houses; town well protected.{% include cite.html id="2026-09-26-steffen-cathedral-latin-quarter" %} Guide colour — *ting*/land rights, ~7,000 English words from Danish/Norse, *gat*/Kattegat, Danegeld “~50% budget” — keep as soft tour talk.{% include cite.html id="2026-09-26-steffen-cathedral-latin-quarter" %}
