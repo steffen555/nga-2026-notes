@@ -41,6 +41,8 @@ exclude:
   - images
   - _ocr
   - _templates
+  - inbox
+  - .cursor
   - README.md
   - Gemfile
   - Gemfile.lock

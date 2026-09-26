@@ -1,6 +1,6 @@
 ---
 title: "NGA Aarhus 2026 (Fall) Program handout"
-id: handout-fall-2026
+source_id: handout-fall-2026
 cite: Fall program
 author: Charlotte and the teacher team
 author_role: handout

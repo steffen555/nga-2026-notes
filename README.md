@@ -7,6 +7,12 @@ Student-compiled notes site for **Nordic Guide Academy · Aarhus 2026**, publish
 1. **Sources** (`_sources/` + `assets/sources/`) — raw material as received (photos of handwriting, dumps, typed notes), always with **who** provided it.
 2. **Compiled pages** (`_sessions/`, `_places/`) — synthesised notes, reached from **Program** and **Curriculum**. Each claim should cite a source.
 
+## Adding notes (inbox)
+
+1. Drop anything into `inbox/` (photos, PDFs, text, folders). Optional: author/date in the filename or a `meta.md`.
+2. Ask Cursor to **process the inbox** (project skill + rules handle the rest).
+3. The agent files a source, updates session/place pages with citations, and clears `inbox/`.
+
 Cite in compiled markdown:
 
 ```liquid
@@ -38,11 +44,14 @@ Open http://127.0.0.1:4000
 
 | What | Where |
 | --- | --- |
+| **Inbox (drop zone)** | `inbox/` |
 | Raw source entries | `_sources/*.md` |
 | Original files (photos, PDFs) | `assets/sources/<slug>/` |
+| Media transcriptions | `assets/sources/<slug>/transcription.md` |
 | Compiled session notes | `_sessions/*.md` (linked from Program) |
 | Compiled place notes | `_places/*.md` (linked from Curriculum) |
 | Program / schedule data | `_data/program.yml` |
 | Course handout images | `assets/handouts/` (also linked from Sources) |
+| Agent skill / rules | `.cursor/skills/process-inbox/`, `.cursor/rules/` |
 
-Copy `_templates/source.md` into `_sources/` when filing a new contribution.
+Copy `_templates/source.md` into `_sources/` when filing a source by hand.

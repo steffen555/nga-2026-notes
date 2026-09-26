@@ -1,0 +1,31 @@
+---
+description: NGA Aarhus 2026 notes site architecture and contribution conventions
+alwaysApply: true
+---
+
+# NGA notes site
+
+Jekyll GitHub Pages site. Readers consume compiled notes; maintainers file raw material as sources and cite it.
+
+## Layers
+
+| Layer | Path | Role |
+| --- | --- | --- |
+| Inbox | `inbox/` | Drop zone only — never publish |
+| Sources | `_sources/*.md` + `assets/sources/<id>/` | Raw as received + author |
+| Sessions | `_sessions/*.md` | Compiled notes per lesson |
+| Places | `_places/*.md` | Compiled notes per curriculum stop |
+| Program data | `_data/program.yml` | Schedule, `places:` links per session |
+
+## Rules
+
+- Preserve originals in sources; for photos/scans/PDFs write `assets/sources/<id>/transcription.md` before compiling.
+- Synthesise on session/place pages; cite with `{% include cite.html id="source-id" %}`.
+- Public pages: no maintainer how-tos or cite instructions.
+- Do not invent facts; if material is unclear, file the source and note uncertainty in compiled text.
+- New curriculum↔session links: update `places:` on the session in `_data/program.yml`.
+- `baseurl` is `/nga-2026-notes` for production; local Docker serve uses `--baseurl ""`.
+
+## Inbox
+
+When `inbox/` has files (besides `README.md`), or the user asks to process notes/material: read and follow `.cursor/skills/process-inbox/SKILL.md`.

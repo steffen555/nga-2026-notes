@@ -1,21 +1,10 @@
 ---
-title: "Cathedral & Latin Quarter demonstration"
-term: fall
-number: 2
-date_label: "Sat 26 Sept 2026"
-session_date: "2026-09-26"
-kind: demo
-kind_label: "Demonstration tour"
-when: "8.55 meet at the Cathedral tower · 10.30–13.00 Viking-theme walking tour"
-where: "Cathedral / Latin Quarter"
-teachers: "Line / Church guide, Louise Buttenchøn"
-saturday: true
-topics:
-  - "Guided demonstration tour inside the Cathedral"
-  - "Walking tour in the Latin Quarter (viking theme)"
+title: "Aarhus Cathedral"
+slug: aarhus-cathedral
+scope: guide
+scope_label: "Guide stop"
+subtitle: "Skt. Clemens Kirke"
 ---
-
-## Aarhus Cathedral (Skt. Clemens Kirke)
 
 Longest church in Denmark; about 825 years of history — often dated to 1201, but a bit older (known via the cathedral school). Roughly a century to build, though that is not certain.{% include cite.html id="2026-09-26-steffen-cathedral-latin-quarter" %}
 
@@ -36,19 +25,3 @@ You must live in the parish to marry in the church. Visiting is free; guided tou
 **Leper window:** the priest could pass communion to lepers who were not allowed inside.{% include cite.html id="2026-09-26-steffen-cathedral-latin-quarter" %}
 
 **Marselis chapel:** Gabriel Marselis; sons Vilhelm and Konstantin lie under the floor.{% include cite.html id="2026-09-26-steffen-cathedral-latin-quarter" %}
-
-## Vor Frue and the early town
-
-First church in Aarhus that is still here; an earlier church was burned when Christianity was new. The crypt was used as storage, closed off, and rediscovered in **1956/57**. The Jesus figure is not the original — a strong “viking-style” Jesus associated with King Knud.{% include cite.html id="2026-09-26-steffen-cathedral-latin-quarter" %}
-
-They had **stave churches**; **Blackfriars** (Dominican) connection; “Travestine” also noted (uncertain reading). Rune stones found in the church had often been taken down and reused as building stone.{% include cite.html id="2026-09-26-steffen-cathedral-latin-quarter" %}
-
-## Viking-theme walking tour
-
-**Volden** was the town rampart/wall — you can walk on the wall. The stream (**Åen**) gave the town its name; water gathered settlements rather than dividing them.{% include cite.html id="2026-09-26-steffen-cathedral-latin-quarter" %}
-
-**Pustervig** was a trading place (worth more research). **Graven** was the moat at the outer edge of town — street names still tell that story. Aarhus was well protected.{% include cite.html id="2026-09-26-steffen-cathedral-latin-quarter" %}
-
-**Viking Museum;** pit houses (*grubehuse*) — small and dug into the ground.{% include cite.html id="2026-09-26-steffen-cathedral-latin-quarter" %}
-
-Vikings and law: right to own land and to be judged by an independent jury (framed in the notes as inventing aspects of the lawsuit). About **7,000** English words from Danish; *gat* = opening (cf. gap / Kattegat). England once paid a large share of its budget (notes: ~50%) to keep Vikings away (Danegeld).{% include cite.html id="2026-09-26-steffen-cathedral-latin-quarter" %}

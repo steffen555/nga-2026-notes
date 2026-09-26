@@ -1,6 +1,6 @@
 ---
 title: "Short description of what this packet is"
-id: YYYY-MM-DD-author-topic
+source_id: YYYY-MM-DD-author-topic
 cite: AuthorLast
 author: Full Name
 author_role: classmate   # self | classmate | teacher | handout
@@ -20,4 +20,7 @@ media: []
 summary: One line on what was received.
 ---
 
-Paste text **exactly as received**, or leave this empty if the files in `media` are the source of truth.
+For text packets: paste text **exactly as received** below.
+
+For photos/scans/PDFs: write `assets/sources/<id>/transcription.md` first, then paste that
+same transcription below (the source page shows images + this body).

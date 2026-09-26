@@ -1,6 +1,6 @@
 ---
 title: "Welcome letter (groups, practicalities, contacts)"
-id: handout-practical-2026
+source_id: handout-practical-2026
 cite: Practical letter
 author: Charlotte and the teacher team
 author_role: handout

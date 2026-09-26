@@ -29,22 +29,28 @@ layout: default
   </section>
   {% endif %}
 
-  {% if page.media and page.media.size > 0 %}
+  {% assign image_count = 0 %}
+  {% for item in page.media %}
+    {% assign ext = item.path | split: '.' | last | downcase %}
+    {% if ext == 'jpg' or ext == 'jpeg' or ext == 'png' or ext == 'webp' or ext == 'gif' or ext == 'heic' %}
+      {% assign image_count = image_count | plus: 1 %}
+    {% endif %}
+  {% endfor %}
+
+  {% if image_count > 0 %}
   <section class="source-media">
     <h2>As received</h2>
     <div class="media-grid">
       {% for item in page.media %}
-      <figure>
         {% assign ext = item.path | split: '.' | last | downcase %}
         {% if ext == 'jpg' or ext == 'jpeg' or ext == 'png' or ext == 'webp' or ext == 'gif' or ext == 'heic' %}
-        <a href="{{ item.path | relative_url }}">
-          <img src="{{ item.path | relative_url }}" alt="{{ item.caption | default: page.title }}">
-        </a>
-        {% else %}
-        <a class="file-link" href="{{ item.path | relative_url }}">{{ item.caption | default: item.path }}</a>
+        <figure>
+          <a href="{{ item.path | relative_url }}">
+            <img src="{{ item.path | relative_url }}" alt="{{ item.caption | default: page.title }}">
+          </a>
+          {% if item.caption %}<figcaption>{{ item.caption }}</figcaption>{% endif %}
+        </figure>
         {% endif %}
-        {% if item.caption %}<figcaption>{{ item.caption }}</figcaption>{% endif %}
-      </figure>
       {% endfor %}
     </div>
   </section>
@@ -53,7 +59,7 @@ layout: default
   {% assign body = content | strip %}
   {% if body != "" %}
   <section class="notes-body source-body">
-    <h2>Content</h2>
+    <h2>Transcription</h2>
     {{ content }}
   </section>
   {% endif %}

@@ -1,17 +1,18 @@
-{% comment %}
+{%- comment -%}
   Inline citation to a source-material page.
   Usage: {% include cite.html id="handout-fall-2026" %}
   Optional: {% include cite.html id="handout-fall-2026" label="Fall program" %}
-{% endcomment %}
-{% assign cite_id = include.id %}
-{% assign cite_src = nil %}
-{% for s in site.sources %}
-  {% if s.id == cite_id or s.slug == cite_id %}
-    {% assign cite_src = s %}
-  {% endif %}
-{% endfor %}
-{% if cite_src %}
+  Matches front matter source_id, or collection slug.
+{%- endcomment -%}
+{%- assign cite_id = include.id -%}
+{%- assign cite_src = nil -%}
+{%- for s in site.sources -%}
+  {%- if s.source_id == cite_id or s.slug == cite_id -%}
+    {%- assign cite_src = s -%}
+  {%- endif -%}
+{%- endfor -%}
+{%- if cite_src -%}
 <sup class="cite"><a href="{{ cite_src.url | relative_url }}" title="{{ cite_src.author }}: {{ cite_src.title }}">{% if include.label %}{{ include.label }}{% else %}{{ cite_src.cite | default: cite_src.author }}{% endif %}</a></sup>
-{% else %}
+{%- else -%}
 <sup class="cite cite-missing" title="Missing source: {{ cite_id }}">[? {{ cite_id }}]</sup>
-{% endif %}
+{%- endif -%}

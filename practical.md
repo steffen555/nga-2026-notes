@@ -7,9 +7,9 @@ permalink: /practical/
 
 <section class="section prose">
   <h2>The course</h2>
-  <p>Every Wednesday from 16.30–20.00 and one Saturday per month{% include cite.html id="handout-welcome-2026" %}. Classroom lessons are usually at <strong>Gelinde, Balticagade</strong>, sometimes elsewhere — always check the program before each lesson.</p>
+  <p>Every Wednesday from 16.30–20.00 and one Saturday per month.{% include cite.html id="handout-welcome-2026" %} Classroom lessons are usually at <strong>Gelinde, Balticagade</strong>, sometimes elsewhere — always check the program before each lesson.</p>
   <p>The program is updated regularly, along with invitations and extra events.</p>
-  <p>You need at least <strong>80% attendance</strong> and a contribution to <strong>guide gold</strong> to go to the exams and obtain your diploma{% include cite.html id="handout-welcome-2026" %}.</p>
+  <p>You need at least <strong>80% attendance</strong> and a contribution to <strong>guide gold</strong> to go to the exams and obtain your diploma.{% include cite.html id="handout-welcome-2026" %}</p>
   <p>The target is to learn universal guide skills, do basic walking tours in Aarhus, and a few bus tours around Aarhus.</p>
   <p>Before guiding in season 2027, complete a <strong>first aid course</strong> (or provide an existing diploma). One will be arranged in May (own expense).</p>
 </section>

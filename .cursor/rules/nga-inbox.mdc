@@ -1,0 +1,13 @@
+---
+description: Process files dropped in inbox/ into sources and compiled notes
+globs: inbox/**
+alwaysApply: false
+---
+
+# Inbox drops
+
+Files under `inbox/` (except `README.md`) are unprocessed course material.
+
+1. Read `.cursor/skills/process-inbox/SKILL.md` and follow it end-to-end.
+2. Do not leave originals only in `inbox/` — file them under `assets/sources/` first.
+3. Ask the user for author/date/session only when they cannot be inferred.

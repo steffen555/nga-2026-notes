@@ -7,3 +7,4 @@ vendor/
 _ocr/
 .DS_Store
 *.swp
+inbox/.DS_Store

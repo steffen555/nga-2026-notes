@@ -1,6 +1,6 @@
 ---
 title: "2027 sneak-peak schedule handout"
-id: handout-spring-2027
+source_id: handout-spring-2027
 cite: Spring sneak peak
 author: Charlotte and the teacher team
 author_role: handout

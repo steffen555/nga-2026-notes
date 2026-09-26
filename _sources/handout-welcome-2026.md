@@ -1,6 +1,6 @@
 ---
 title: "Welcome letter (course & curriculum)"
-id: handout-welcome-2026
+source_id: handout-welcome-2026
 cite: Welcome letter
 author: Charlotte and the teacher team
 author_role: handout

@@ -36,8 +36,9 @@ fall:
   places:
   - latin-quarter
   - vor-frue-kirke
-  - cathedral-school
+  - aarhus-cathedral
   - viking-museum
+  - pustervig
   starts: '08:55'
   ends: '13:00'
 - number: 3
@@ -538,6 +539,11 @@ places:
   title: Vor Frue Kirke
   scope: guide
   scope_label: Guide stop
+- slug: aarhus-cathedral
+  title: Aarhus Cathedral
+  scope: guide
+  scope_label: Guide stop
+  subtitle: Skt. Clemens Kirke
 - slug: cathedral-school
   title: The cathedral school
   scope: guide
