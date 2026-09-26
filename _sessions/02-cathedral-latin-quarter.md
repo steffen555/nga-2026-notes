@@ -25,7 +25,7 @@ Bishop **Jens Iversen Lange** raised the Gothic nave and west tower and donated 
 
 Paintings show local elites. Burials under the floor were put at about **3,500** on the tour (approximate; careless tally).{% include cite.html id="2026-09-26-steffen-cathedral-latin-quarter" %}
 
-**St George and the dragon** (1497 in the notes): female dragon with young — mother dead, young one living.{% include cite.html id="2026-09-26-steffen-cathedral-latin-quarter" %} Altar centre: Mary’s mother **Anna** with Mary and the Child (Notke).{% include cite.html id="ref-aarhus-domkirke" %}
+**St George and the dragon** (1497 in the notes): female dragon with young — mother dead, young one living. Symbolism: you can slay the dragon (clear the problem), but the young will return later.{% include cite.html id="2026-09-26-steffen-cathedral-latin-quarter" %} Altar centre: Mary’s mother **Anna** with Mary and the Child (Notke).{% include cite.html id="ref-aarhus-domkirke" %}
 
 Active church; largest organ in Denmark on the cathedral’s own account (**89** stops).{% include cite.html id="ref-aarhus-domkirke" %}{% include cite.html id="2026-09-26-steffen-cathedral-latin-quarter" %} Parish marriage rule; free entry, paid guided tours (voucher); toilets vs Banken nearby.{% include cite.html id="2026-09-26-steffen-cathedral-latin-quarter" %}
 

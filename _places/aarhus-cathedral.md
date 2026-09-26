@@ -24,7 +24,7 @@ In the old days there were no chairs. At the Reformation some **36–40** side a
 
 Paintings and memorials show local mayors, businessmen, and nobles. The floor was covered with gravestones; the tour put burials on the order of **3,500** — the floor is unstable and the tally was said to be careless, so treat the figure as approximate.{% include cite.html id="2026-09-26-steffen-cathedral-latin-quarter" %}
 
-**St George and the dragon** fresco dated **1497** in the notes: a female dragon with young — the mother dead, the young one living (symbolism).{% include cite.html id="2026-09-26-steffen-cathedral-latin-quarter" %}{% include cite.html id="ref-aarhus-domkirke" %}
+**St George and the dragon** fresco dated **1497** in the notes: a female dragon with young — the mother dead, the young one living. Symbolism: you can slay the dragon (remove the problems), but the young will come again later.{% include cite.html id="2026-09-26-steffen-cathedral-latin-quarter" %}{% include cite.html id="ref-aarhus-domkirke" %}
 
 **Altarpiece** (inaugurated Easter **1479**, Notke): a multi-winged altar with changing faces through the church year; there is a model. The woman in the centre is not Mary alone but Mary’s mother **Anna** with Mary and the Child (flanked by St Clement and John the Baptist). Jens Iversen Lange was the donor.{% include cite.html id="ref-aarhus-domkirke" %}{% include cite.html id="2026-09-26-steffen-cathedral-latin-quarter" %}
 
