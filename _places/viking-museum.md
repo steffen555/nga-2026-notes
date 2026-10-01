@@ -5,13 +5,21 @@ scope: guide
 scope_label: "Guide stop"
 ---
 
-Aarhus was framed on the tour as **well protected** in the viking period. **Pit houses** (*grubehuse*) — small dwellings dug into the ground — appear in the day notes and in local archaeology (e.g. 800s finds near Pustervig).{% include cite.html id="2026-09-26-steffen-cathedral-latin-quarter" %}{% include cite.html id="ref-stadsarkiv-volden-pustervig" %}
+**Aros — byen under jorden** at the Viking Museum, Sct. Clemens Torv / under **Store Torv**.{% include cite.html id="2026-09-26-louise-vikingebyvandring" %}{% include cite.html id="2026-10-01-aritra-discovering-aarhus" %}
+
+**Aros** = river-mouth town where Aarhus Å meets the sea.{% include cite.html id="2026-10-01-aritra-discovering-aarhus" %} From c. **800**: growing settlement with harbour and market; merchants and craftspeople in small workshops; larger houses and small **pit houses** (*grubehuse*) — museum has a replica.{% include cite.html id="2026-09-26-louise-vikingebyvandring" %}{% include cite.html id="2026-09-26-steffen-cathedral-latin-quarter" %}{% include cite.html id="ref-stadsarkiv-volden-pustervig" %}
+
+**Ring rampart** and moat from the first half of the **900s**, built out by several kings including **Gorm den Gamle**; major expansion in the second half of the 900s under **Harald Blåtand** (**958–987**).{% include cite.html id="2026-09-26-louise-vikingebyvandring" %}{% include cite.html id="2026-09-30-steffen-history-1" %}
+
+**Runestone** exhibit / stones at the entrance to Aros in Louise’s stop list.{% include cite.html id="2026-09-26-louise-vikingebyvandring" %}{% include cite.html id="2026-10-01-aritra-discovering-aarhus" %}
+
+**Norse gods** exhibit includes Frey/Freyr, Freyja, Njord, Thor (Mjölnir), Odin, Frigg, Loki, and Tyr.{% include cite.html id="2026-10-01-aritra-discovering-aarhus" %}
 
 ## Guide colour (use carefully)
 
-The walking tour offered guest colour that is easy to overstate; keep it clearly marked as tour talk until you have firmer wording:
+Saturday walking-tour talk that is easy to overstate:
 
-- Vikings framed as inventing aspects of the lawsuit — right to own land and to be judged by an independent jury (better pointed at the *ting* tradition than at “inventing the lawsuit”).{% include cite.html id="2026-09-26-steffen-cathedral-latin-quarter" %}
-- About **7,000** English words from Danish / Norse — a large Norse contribution to English is real; treat the round number as colour.{% include cite.html id="2026-09-26-steffen-cathedral-latin-quarter" %}
+- Vikings framed as inventing aspects of the lawsuit — right to own land and to be judged by an independent jury (better pointed at the *ting* tradition).{% include cite.html id="2026-09-26-steffen-cathedral-latin-quarter" %}
+- About **7,000** English words from Danish / Norse — treat the round number as colour.{% include cite.html id="2026-09-26-steffen-cathedral-latin-quarter" %}
 - *Gat* = opening (cf. gap / Kattegat).{% include cite.html id="2026-09-26-steffen-cathedral-latin-quarter" %}
-- England paying heavily to keep Vikings away (**Danegeld**); the notes’ “~50% of national budget” is a strong claim — safer as “large tribute payments.”{% include cite.html id="2026-09-26-steffen-cathedral-latin-quarter" %}
+- England paying heavily to keep Vikings away (**Danegeld**); “~50% of national budget” is a strong claim — safer as “large tribute payments.”{% include cite.html id="2026-09-26-steffen-cathedral-latin-quarter" %}

@@ -29,7 +29,7 @@ fall:
   kind_label: Demonstration tour
   when: 8.55 meet at the Cathedral tower · 10.30–13.00 Viking-theme walking tour
   where: Cathedral / Latin Quarter
-  teachers: Line / Church guide, Louise Buttenchøn
+  teachers: Line / Church guide, Louise Buttenschøn
   topics:
   - Guided demonstration tour inside the Cathedral
   - Walking tour in the Latin Quarter (viking theme)
@@ -39,6 +39,8 @@ fall:
   - aarhus-cathedral
   - viking-museum
   - pustervig
+  - immervad
+  - aaen
   starts: '08:55'
   ends: '13:00'
 - number: 3
@@ -56,6 +58,8 @@ fall:
   - The history of Aarhus from year 800 untill present time with focus on older days
   places:
   - history-aarhus-denmark
+  - vor-frue-kirke
+  - aarhus-cathedral
   starts: '16:30'
   ends: '20:00'
 - number: 4

@@ -8,7 +8,7 @@ kind: demo
 kind_label: "Demonstration tour"
 when: "8.55 meet at the Cathedral tower · 10.30–13.00 Viking-theme walking tour"
 where: "Cathedral / Latin Quarter"
-teachers: "Line / Church guide, Louise Buttenchøn"
+teachers: "Line / Church guide, Louise Buttenschøn"
 saturday: true
 topics:
   - "Guided demonstration tour inside the Cathedral"
@@ -29,18 +29,26 @@ Paintings show local elites. Burials under the floor were put at about **3,500**
 
 Active church; largest organ in Denmark on the cathedral’s own account (**89** stops).{% include cite.html id="ref-aarhus-domkirke" %}{% include cite.html id="2026-09-26-steffen-cathedral-latin-quarter" %} Parish marriage rule; free entry, paid guided tours (voucher); toilets vs Banken nearby.{% include cite.html id="2026-09-26-steffen-cathedral-latin-quarter" %}
 
-**Ship *Unity*** (1720): Dutch model / Peter the Great / Skagen wreck story — also the cathedral’s published account.{% include cite.html id="ref-aarhus-domkirke" %}{% include cite.html id="2026-09-26-steffen-cathedral-latin-quarter" %} **Leprosy window** (fresco c. 1300): tour said communion to lepers; cathedral text names the window without specifying what was passed.{% include cite.html id="2026-09-26-steffen-cathedral-latin-quarter" %}{% include cite.html id="ref-aarhus-domkirke" %} **Marselis chapel** (1702): Quellinus monument for Constantin Marselis’s widow and her two husbands; day notes named Gabriel / Vilhelm / Konstantin — check before guiding.{% include cite.html id="ref-aarhus-domkirke" %}{% include cite.html id="2026-09-26-steffen-cathedral-latin-quarter" %}
+**Ship *Unity*** (1720): Dutch model / Peter the Great / Skagen wreck story — also the cathedral’s published account.{% include cite.html id="ref-aarhus-domkirke" %}{% include cite.html id="2026-09-26-steffen-cathedral-latin-quarter" %} **Leprosy window** (fresco c. 1300): tour said communion to lepers; cathedral text names the window without specifying what was passed.{% include cite.html id="2026-09-26-steffen-cathedral-latin-quarter" %}{% include cite.html id="ref-aarhus-domkirke" %} **Marselis chapel** (1702): Quellinus monument; Gabriel Marselis got Crown land **1661**; sons Constantin and Vilhelm; Havreballegård → Marselisborg.{% include cite.html id="ref-aarhus-domkirke" %}{% include cite.html id="2026-10-01-aritra-discovering-aarhus" %}
+
+Altarpiece ~**12 m**; feast / Lent / Advent faces; Lange kneeling; restored **1975–81**. **Alle Sjæle-billedet** (c. 1500): Heaven / Gregory’s Mass / Purgatory.{% include cite.html id="2026-10-01-aritra-discovering-aarhus" %}{% include cite.html id="ref-aarhus-domkirke" %}
 
 ## Vor Frue and the early town
 
-Wooden church burned **1051** (Harald Hardrada); then travertine **crypt** c. **1060** (oldest vaulted stone church in the Nordic countries); then **Skt. Nicolai** as first cathedral; **Dominicans / Blackfriars** from c. 1230–1240; renamed **Vor Frue** after the Reformation.{% include cite.html id="ref-aarhuswiki-vor-frue" %}{% include cite.html id="ref-vor-frue-kirke" %}{% include cite.html id="ref-danmarkshistorien-vor-frue" %}{% include cite.html id="2026-09-26-steffen-cathedral-latin-quarter" %}
+Wooden church burned **1051** (Harald Hardrada — Louise: town holds, not taken); then travertine **crypt** c. **1060** (Bishop Christian; oldest vaulted stone church in the Nordic countries); then **Skt. Nicolai** as first cathedral; **Dominicans / Blackfriars** from c. 1230–1240; renamed **Vor Frue** after the Reformation.{% include cite.html id="ref-aarhuswiki-vor-frue" %}{% include cite.html id="ref-vor-frue-kirke" %}{% include cite.html id="ref-danmarkshistorien-vor-frue" %}{% include cite.html id="2026-09-26-steffen-cathedral-latin-quarter" %}{% include cite.html id="2026-09-26-louise-vikingebyvandring" %}
 
-Crypt rediscovered **1955**, rededicated **1957** (notes said 1956/57). Crucifix is a copy of the **Åby** figure.{% include cite.html id="ref-vor-frue-kirke" %} Tour reading of the viking-style Christ: looking up, braided hair, muscular arms, big hands — how a viking hero might be shown; **Kong Knud** is in the notes but the link is not remembered.{% include cite.html id="2026-09-26-steffen-cathedral-latin-quarter" %} Four runestones reused in the monastery foundations (incl. Århussten 5).{% include cite.html id="ref-trap-aarhus-dominikanerkloster" %}{% include cite.html id="2026-09-26-steffen-cathedral-latin-quarter" %}
+Crypt rediscovered **1955**, rededicated **1957** (notes said 1956/57). Crucifix is a copy of the **Åby** figure.{% include cite.html id="ref-vor-frue-kirke" %} Tour reading of the viking-style Christ: looking up, braided hair, muscular arms, big hands — how a viking hero might be shown; **Kong Knud** is in the notes but the link is not remembered.{% include cite.html id="2026-09-26-steffen-cathedral-latin-quarter" %} **Six** Aarhus runestones in Louise’s handout (Trap: four in the monastery foundations).{% include cite.html id="2026-09-26-louise-vikingebyvandring" %}{% include cite.html id="ref-trap-aarhus-dominikanerkloster" %}
 
 ## Viking-theme walking tour
 
-**Volden** = rampart street; **Åen** named the town; **Graven** = moat — names still map the early defences.{% include cite.html id="ref-stadsarkiv-volden-pustervig" %}{% include cite.html id="2026-09-26-steffen-cathedral-latin-quarter" %}
+Suggested route (Louise): Viking Museum → Bispetorv / Kannikegade / Harald Blåtands Gade → Aarhus Å → Immervad → Vestergade → Vor Frue crypt (check opening) → Badstuegade → Pustervig → Volden → Graven → Rosenpassagen / Bispegade → Cathedral.{% include cite.html id="2026-09-26-louise-vikingebyvandring" %}
 
-**Pustervig**: day notes said trading place (research). Local archive: modern square (1915+); name likely **smithing**; early finds include 800s pit houses.{% include cite.html id="2026-09-26-steffen-cathedral-latin-quarter" %}{% include cite.html id="ref-stadsarkiv-volden-pustervig" %}
+**Åen / Aros:** river-mouth market, ships, rampart; settlement from c. **750**; runestones at the entrance.{% include cite.html id="2026-09-26-louise-vikingebyvandring" %}
 
-**Viking Museum;** pit houses; town well protected.{% include cite.html id="2026-09-26-steffen-cathedral-latin-quarter" %} Guide colour — *ting*/land rights, ~7,000 English words from Danish/Norse, *gat*/Kattegat, Danegeld “~50% budget” — keep as soft tour talk.{% include cite.html id="2026-09-26-steffen-cathedral-latin-quarter" %}
+**Immervad:** ford (later bridge); cattle in/out; south gate of town.{% include cite.html id="2026-09-26-louise-vikingebyvandring" %}
+
+**Pustervig / Volden:** Louise — viking market; Volden along the rampart to **Graven** (moat, likely from the stream).{% include cite.html id="2026-09-26-louise-vikingebyvandring" %} Archive: modern square; name may be smithing-related.{% include cite.html id="ref-stadsarkiv-volden-pustervig" %}
+
+**Borgporten** (Store Torv): gate; two towers on the city arms — post-viking.{% include cite.html id="2026-09-26-louise-vikingebyvandring" %}
+
+**Viking Museum** under Store Torv; pit-house replica; rampart under Gorm / Harald Blåtand (**958–987**).{% include cite.html id="2026-09-26-louise-vikingebyvandring" %}{% include cite.html id="2026-09-26-steffen-cathedral-latin-quarter" %} Guide colour — *ting*/land rights, ~7,000 English words from Danish/Norse, *gat*/Kattegat, Danegeld “~50% budget” — keep as soft tour talk.{% include cite.html id="2026-09-26-steffen-cathedral-latin-quarter" %}

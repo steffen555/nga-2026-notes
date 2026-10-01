@@ -522,6 +522,12 @@ main.wrap { padding: 2rem 0 4rem; }
 
 .source-media { margin: 1.5rem 0; }
 .source-media h2 { font-family: var(--font-display); }
+.source-media .file-list {
+  list-style: none;
+  padding: 0;
+  margin: 0.75rem 0 0;
+}
+.source-media .file-list a { font-weight: 600; }
 .media-grid {
   display: grid;
   grid-template-columns: repeat(auto-fit, minmax(14rem, 1fr));
